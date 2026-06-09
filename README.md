@@ -105,6 +105,10 @@ Data Scientist
 * Machine Learning Based Career Prediction
 * Real-Time Job Recommendations
 
+  
+## Screenshot
+
+![Project Screenshot](Screenshot%202026-06-10%20004409.png)
 ## Author
 
 **Stuti Sharma**
